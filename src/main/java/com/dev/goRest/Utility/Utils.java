@@ -6,6 +6,11 @@ import com.dev.goRest.RestClient.RestClient;
 
 public class Utils extends RestClient{
 
+	/**
+	 * 
+	 * @param statuscode
+	 * @return
+	 */
 	public static int getStatusCode(String statuscode){
 		
 		int statusCode = 0;

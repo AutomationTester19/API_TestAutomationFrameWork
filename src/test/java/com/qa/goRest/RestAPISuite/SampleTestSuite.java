@@ -31,7 +31,7 @@ public class SampleTestSuite extends RestClient {
 	@Story("GoRest_TC001_UserDetailsFlow")
 	public void TC001_UserDetails(){
 			       
-		   log.info("Action Performed on Go Rest API");
+		   log.info("Execution on RestAPI");
 	       LinkedHashMap<String,String> param = new LinkedHashMap<String,String>();
 	       param.put("baseURI", getProperty("baseURI"));
 	       param.put("access-token", getProperty("accesstoken"));

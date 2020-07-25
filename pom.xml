@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>GO_RestAPI_RestAssured_Automation_FrameWork</name>
+  <name>GO_Rest_API_RestAssured_Automation_FrameWork</name>
   <url>http://maven.apache.org</url>
 
   <properties>

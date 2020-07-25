@@ -13,7 +13,11 @@ import io.qameta.allure.Attachment;
 public class AllureTestListeners extends RestClient implements ITestListener {
 	
 	Logger log = LogManager.getLogger(AllureTestListeners.class);
-
+/**
+ * 
+ * @param iTestResult
+ * @return
+ */
 	private static String getTestMethodName(ITestResult iTestResult) {
 		return iTestResult.getMethod().getConstructorOrMethod().getName();
 	}

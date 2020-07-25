@@ -25,6 +25,12 @@ public class ExcelOperations extends RestClient {
 	
 	public static String filePath = System.getProperty("user.dir")+"\\Resources\\testData";
 	
+	/**
+	 * 
+	 * @param fileName
+	 * @param sheetName
+	 * @return
+	 */
 	public static int getRowCount(String fileName,String sheetName){
 
 		int rowCount;

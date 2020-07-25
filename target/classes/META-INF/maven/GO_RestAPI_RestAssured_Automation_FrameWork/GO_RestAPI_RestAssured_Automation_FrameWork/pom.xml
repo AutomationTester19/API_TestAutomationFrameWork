@@ -7,12 +7,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>GO_RestAPI_RestAssured_Automation_FrameWork</name>
+  <name>GO_Rest_API_RestAssured_Automation_FrameWork</name>
   <url>http://maven.apache.org</url>
 
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<aspectj.version>1.8.9</aspectj.version>
+	         <java.version>1.8</java.version>
 	</properties>
 
 <build>

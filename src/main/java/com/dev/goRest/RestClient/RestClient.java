@@ -21,7 +21,10 @@ public class RestClient {
 	public static Properties prop = null;
 	public static FileInputStream fis = null;
 	
-	
+	/**
+	 * 
+	 * @return
+	 */
 	public static Properties configProperty(){
 		
 		String filePath = System.getProperty("user.dir")+"\\config\\GoRestAPI.properties";
