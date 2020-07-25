@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [RestAssured Automation FrameWork On GoRest API]">
+  <listeners>
+    <listener class-name="com.dev.goRest.Listeners.AllureTestListeners"/>
+  </listeners>
+  <test thread-count="3" name="Go Rest Automation FrameWork(failed)">
+    <classes>
+      <class name="com.qa.goRest.RestAPISuite.APISuite">
+        <methods>
+          <include name="TC003_StatusLine"/>
+        </methods>
+      </class> <!-- com.qa.goRest.RestAPISuite.APISuite -->
+    </classes>
+  </test> <!-- Go Rest Automation FrameWork(failed) -->
+</suite> <!-- Failed suite [RestAssured Automation FrameWork On GoRest API] -->
