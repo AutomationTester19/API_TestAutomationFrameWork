@@ -9,7 +9,7 @@
 	</listeners>
 	<test name="Go Rest Automation FrameWork">
 		<classes>
-			<class name="com.qa.goRest.RestAPISuite.APISuite" />
+			<class name="com.qa.goRest.RestAPISuite.SampleTestSuite" />
 		</classes>
 	</test>
 </suite>
