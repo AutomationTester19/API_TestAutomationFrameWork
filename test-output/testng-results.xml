@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Go Rest API Rest Assured Automation FrameWork" duration-ms="6527" started-at="2020-07-25T07:30:14Z" finished-at="2020-07-25T07:30:21Z">
+  <suite name="Default suite" duration-ms="4770" started-at="2020-07-25T10:19:32Z" finished-at="2020-07-25T10:19:37Z">
     <groups>
     </groups>
-    <test name="Go Rest API FrameWork" duration-ms="6527" started-at="2020-07-25T07:30:14Z" finished-at="2020-07-25T07:30:21Z">
-      <class name="com.qa.goRest.RestAPISuite.APISuite">
-        <test-method status="PASS" signature="TC001_UserDetails()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@7e4d2287]" name="TC001_UserDetails" duration-ms="4476" started-at="2020-07-25T07:30:14Z" finished-at="2020-07-25T07:30:19Z">
+    <test name="Default test" duration-ms="4770" started-at="2020-07-25T10:19:32Z" finished-at="2020-07-25T10:19:37Z">
+      <class name="com.qa.goRest.GoRestTestSuite.SampleTestSuite">
+        <test-method status="PASS" signature="TC001_UserDetails()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@18d87d80]" name="TC001_UserDetails" duration-ms="2868" started-at="2020-07-25T10:19:32Z" finished-at="2020-07-25T10:19:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC001_UserDetails -->
-        <test-method status="PASS" signature="TC002_StatusCode()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@7e4d2287]" name="TC002_StatusCode" duration-ms="357" started-at="2020-07-25T07:30:19Z" finished-at="2020-07-25T07:30:19Z">
+        <test-method status="PASS" signature="TC002_StatusCode()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@18d87d80]" name="TC002_StatusCode" duration-ms="420" started-at="2020-07-25T10:19:35Z" finished-at="2020-07-25T10:19:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC002_StatusCode -->
-        <test-method status="PASS" signature="TC003_StatusLine()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@7e4d2287]" name="TC003_StatusLine" duration-ms="379" started-at="2020-07-25T07:30:19Z" finished-at="2020-07-25T07:30:20Z">
+        <test-method status="PASS" signature="TC003_StatusLine()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@18d87d80]" name="TC003_StatusLine" duration-ms="391" started-at="2020-07-25T10:19:36Z" finished-at="2020-07-25T10:19:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC003_StatusLine -->
-        <test-method status="PASS" signature="TC004_VerifyHeaders()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@7e4d2287]" name="TC004_VerifyHeaders" duration-ms="398" started-at="2020-07-25T07:30:20Z" finished-at="2020-07-25T07:30:20Z">
+        <test-method status="PASS" signature="TC004_VerifyHeaders()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@18d87d80]" name="TC004_VerifyHeaders" duration-ms="458" started-at="2020-07-25T10:19:36Z" finished-at="2020-07-25T10:19:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC004_VerifyHeaders -->
-        <test-method status="PASS" signature="TC005_validateDateFromHeaders()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@7e4d2287]" name="TC005_validateDateFromHeaders" duration-ms="360" started-at="2020-07-25T07:30:20Z" finished-at="2020-07-25T07:30:21Z">
+        <test-method status="PASS" signature="TC005_validateDateFromHeaders()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@18d87d80]" name="TC005_validateDateFromHeaders" duration-ms="400" started-at="2020-07-25T10:19:36Z" finished-at="2020-07-25T10:19:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC005_validateDateFromHeaders -->
-      </class> <!-- com.qa.goRest.RestAPISuite.APISuite -->
-    </test> <!-- Go Rest API FrameWork -->
-  </suite> <!-- Go Rest API Rest Assured Automation FrameWork -->
+      </class> <!-- com.qa.goRest.GoRestTestSuite.SampleTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="RestAssured Automation FrameWork On GoRest API" duration-ms="5925" started-at="2020-07-19T12:16:02Z" finished-at="2020-07-19T12:16:08Z">
+  <suite name="RestAssured Automation FrameWork On GoRest API" duration-ms="6282" started-at="2020-07-25T10:19:58Z" finished-at="2020-07-25T10:20:04Z">
     <groups>
     </groups>
-    <test name="Go Rest Automation FrameWork" duration-ms="5925" started-at="2020-07-19T12:16:02Z" finished-at="2020-07-19T12:16:08Z">
-      <class name="com.qa.goRest.RestAPISuite.APISuite">
-        <test-method status="PASS" signature="TC001_UserDetails()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@6c298dc]" name="TC001_UserDetails" duration-ms="4045" started-at="2020-07-19T12:16:03Z" finished-at="2020-07-19T12:16:07Z">
+    <test name="Go Rest API Automation FrameWork" duration-ms="6282" started-at="2020-07-25T10:19:58Z" finished-at="2020-07-25T10:20:04Z">
+      <class name="com.qa.goRest.GoRestTestSuite.SampleTestSuite">
+        <test-method status="PASS" signature="TC001_UserDetails()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@1436a7ab]" name="TC001_UserDetails" duration-ms="3864" started-at="2020-07-25T10:19:58Z" finished-at="2020-07-25T10:20:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC001_UserDetails -->
-        <test-method status="PASS" signature="TC002_StatusCode()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@6c298dc]" name="TC002_StatusCode" duration-ms="361" started-at="2020-07-19T12:16:07Z" finished-at="2020-07-19T12:16:07Z">
+        <test-method status="PASS" signature="TC002_StatusCode()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@1436a7ab]" name="TC002_StatusCode" duration-ms="452" started-at="2020-07-25T10:20:02Z" finished-at="2020-07-25T10:20:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC002_StatusCode -->
-        <test-method status="PASS" signature="TC003_StatusLine()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@6c298dc]" name="TC003_StatusLine" duration-ms="342" started-at="2020-07-19T12:16:07Z" finished-at="2020-07-19T12:16:08Z">
+        <test-method status="PASS" signature="TC003_StatusLine()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@1436a7ab]" name="TC003_StatusLine" duration-ms="465" started-at="2020-07-25T10:20:03Z" finished-at="2020-07-25T10:20:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC003_StatusLine -->
-        <test-method status="PASS" signature="TC004_VerifyHeaders()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@6c298dc]" name="TC004_VerifyHeaders" duration-ms="381" started-at="2020-07-19T12:16:08Z" finished-at="2020-07-19T12:16:08Z">
+        <test-method status="PASS" signature="TC004_VerifyHeaders()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@1436a7ab]" name="TC004_VerifyHeaders" duration-ms="456" started-at="2020-07-25T10:20:03Z" finished-at="2020-07-25T10:20:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC004_VerifyHeaders -->
-        <test-method status="PASS" signature="TC005_validateDateFromHeaders()[pri:0, instance:com.qa.goRest.RestAPISuite.APISuite@6c298dc]" name="TC005_validateDateFromHeaders" duration-ms="374" started-at="2020-07-19T12:16:08Z" finished-at="2020-07-19T12:16:08Z">
+        <test-method status="PASS" signature="TC005_validateDateFromHeaders()[pri:0, instance:com.qa.goRest.GoRestTestSuite.SampleTestSuite@1436a7ab]" name="TC005_validateDateFromHeaders" duration-ms="428" started-at="2020-07-25T10:20:04Z" finished-at="2020-07-25T10:20:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC005_validateDateFromHeaders -->
-      </class> <!-- com.qa.goRest.RestAPISuite.APISuite -->
-    </test> <!-- Go Rest Automation FrameWork -->
+      </class> <!-- com.qa.goRest.GoRestTestSuite.SampleTestSuite -->
+    </test> <!-- Go Rest API Automation FrameWork -->
   </suite> <!-- RestAssured Automation FrameWork On GoRest API -->
 </testng-results>

@@ -1,4 +1,4 @@
-package com.qa.goRest.RestAPISuite;
+package com.qa.goRest.GoRestTestSuite;
 
 
 import org.testng.annotations.Test;

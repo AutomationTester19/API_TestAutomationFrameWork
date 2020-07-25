@@ -8,7 +8,7 @@
 	</listeners>
 	<test name="Go Rest API Automation FrameWork">
 		<classes>
-			<class name="com.qa.goRest.RestAPISuite.SampleTestSuite" />
+			<class name="com.qa.goRest.GoRestTestSuite.SampleTestSuite" />
 		</classes>
 	</test>
 </suite>

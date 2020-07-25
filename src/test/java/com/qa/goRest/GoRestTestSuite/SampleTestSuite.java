@@ -1,4 +1,4 @@
-package com.qa.goRest.RestAPISuite;
+package com.qa.goRest.GoRestTestSuite;
 
 import java.util.LinkedHashMap;
 
